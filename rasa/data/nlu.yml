@@ -1,0 +1,11 @@
+version: "2.0"
+
+nlu:
+- intent: preguntar_faq
+  examples: |
+    - ¿Dónde se encuentra el departamento de computación?
+    - ¿Dónde se encuentra el psicólogo de la universidad?
+    - ¿Cada cuánto tiempo se da las becas económicas?
+    - ¿Cuántos accesos existen en la matriz de la universidad?
+    - ¿Qué clubes existen en la universidad?
+    - ¿Cuáles son mis derechos como estudiante?

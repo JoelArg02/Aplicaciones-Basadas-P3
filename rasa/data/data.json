@@ -1,0 +1,378 @@
+[
+  {
+    "pregunta": "¿Dónde se encuentra el departamento de computación?",
+    "respuesta": "En el bloque H"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el psicólogo de la universidad?",
+    "respuesta": "En bienestar estudiantil, junto al bar"
+  },
+  {
+    "pregunta": "¿Cada cuánto tiempo se da las becas economicas?",
+    "respuesta": "Una vez al año"
+  },
+  {
+    "pregunta": "¿Cuántos accesos exiten en la matriz de la universidad?",
+    "respuesta": "Dos accesos para vehiculos y peatones"
+  },
+  {
+    "pregunta": "¿Qué club existen en la universidad?",
+    "respuesta": "ASOCIACIÓN DE INGENIEROS MECÁNICOS “ASME”, CHACAREROS IASA, ROBÓTICA, RAMA ESTUDIANTIL IEEE, POLÍTICA EXTERIOR Y DIPLOMACIA, GRUPO ESTUDIANTIL (Earthquake Engineering Research Institute) “EERI-ESPE”, ECOLÓGICO, DESARROLLO DE SOFTWARE, FOTOGRAFÍA, DANZA, MÚSICA (Ensamble), ORATORIA, LIDERAZGO"
+  },
+  {
+    "pregunta": "¿Cuáles son mis derechos como estudiante?",
+    "respuesta": "Según el articulo 5 de la LOES, los derechos de los estudiantes son: a) Acceder, movilizarse, permanecer, egresar y titularse sin discriminación conforme sus méritos académicos. b) Acceder a una educación superior de calidad y pertinente, que permita iniciar una carrera académica y/o profesional en igualdad de oportunidades. c) Contar y acceder a los medios y recursos adecuados para su formación superior; garantizados por la Constitución. d) Participar en el proceso de evaluación y acreditación de su carrera. e) Elegir y ser elegido para las representaciones estudiantiles e integrar el cogobierno, en el caso de las instituciones de educación superior. f) Ejercer la libertad de asociarse, expresarse y completar su formación bajo la más amplia libertad de cátedra e investigativa. g) Participar en el proceso de construcción, difusión y aplicación del conocimiento. h) El derecho a recibir una educación superior laica, intercultural, democrática, incluyente y diversa, que impulse la equidad de género, la justicia y la paz. i) Obtener de acuerdo con sus méritos académicos becas, créditos y otras formas de apoyo económico que le garantice igualdad de oportunidades en el proceso de formación de educación superior. j) A desarrollarse en un ámbito educativo libre de todo tipo de violencia."
+  },
+  {
+    "pregunta": "¿Cuándo se consideran estudiantes regulares de la espe?",
+    "respuesta": "Son aquellos matriculados en el 60% de las asignaturas, cursos o sus equivalentes que permite su estudio en el periodo académico ordinarios original."
+  },
+  {
+    "pregunta": "¿Cuándo pierdo gratuidad de estudio?",
+    "respuesta": "Según el articulo 11 del reglamento para garantizar el cumplimiento de gratuidad de educación superior pública, preescribe que se pierde la gratuidad de estudio público al perder el 30% de las horas correspondidas a las asigaturas."
+  },
+  {
+    "pregunta": "¿Quiénes son beneficiarios de las becas proprocionadas por la Universidad?",
+    "respuesta": "En el artículo 77, establece Las instituciones de educación superior establecerán programas de becas completas o su equivalente en ayudas económicas que apoyen en su escolaridad a por lo menos el 10% del número de estudiantes regulares. Serán beneficiarios quienes no cuenten con recursos económicos suficientes, los estudiantes regulares con alto promedio y distinción académica, los deportistas de alto rendimiento que representen al país en eventos internacionales, a condición de que acrediten niveles de rendimiento académico regulados por cada institución y los discapacitados."
+  },
+  {
+    "pregunta": "¿En qué me puede ayudar bienestar estudiantil?",
+    "respuesta": "En el artículo 86 indica la s funciones de Unidad de Bienestar Estudiantil.- Las instituciones de educación superior mantendrán una unidad administrativa de Bienestar Estudiantil destinada a promover la orientación vocacional y profesional, facilitar la obtención de créditos, estímulos, ayudas económicas y becas, y ofrecer los servicios asistenciales que se determinen en las normativas de cada institución. Esta unidad, además, se encargará de promover un ambiente de respeto a los derechos y a la integridad física, psicológica y sexual de las y los estudiantes, en un ambiente libre de violencia, y brindará asistencia a quienes demanden por violaciones de estos derechos."
+  },
+  {
+    "pregunta": "¿Dónde puedo pedir o reservar un aula que no está en uso?",
+    "respuesta": "Para reservar un aula que no se encuentra en uso, puedes hacerlo directamente con los encargados de los diferentes laboratorios."
+  },
+  {
+    "pregunta": "¿En qué bloque me pueden dar información acerca la plataforma mi espe?",
+    "respuesta": "Puedes acercate directamente a las oficias de TICS que se encuentra en el bloque A, ellos te pueden ayudar con información de la plataforma y mucho más."
+  },
+  {
+    "pregunta": "¿Dónde se encuentran los puntos de recarga y pago para el parqueadero?",
+    "respuesta": "Actualmente hay 2 puntos de pago y recarga de tarjetas para el parqueadero, uno de ellos se encuentra en el Bloque C segundo piso, y otro cerca de la biblioteca."
+  },
+  {
+    "pregunta": "Tengo problemas con mi correo institucional ¿Con quién me contacto para solucionar esto?",
+    "respuesta": "Si es problemas por almacenamiento en tu cuenta, trata de borrar archivos que no te sirven con ello en unos días ya podrás hacer uso de tu correo, sino puedes ir al edificio de TICS para explicar tu problema, también tienes a disposición el Help Desk."
+  },
+  {
+    "pregunta": "No tengo cargado mis cursos, y ya realicé el pago ¿Cómo lo soluciono?",
+    "respuesta": "Podrías mandar un correo al departamento de TICS informando de tu problema, pero habitualmente el tiempo que demora en activar las aulas virtuales para los estudiantes que recien realizan el pago de su matricula es de 5 días aproximadamente."
+  },
+  {
+    "pregunta": "¿Cuáles son las carreras presenciales disponibles en la universidad ESPE?",
+    "respuesta": "hay 22 carreras presenciales (nota: hay que añadir las carreras y la sede)"
+  },
+  {
+    "pregunta": "¿Cuánto valen los créditos de la carrera de software?",
+    "respuesta": "$36.20"
+  },
+  {
+    "pregunta": "¿Cómo se llama el director de la carrera de Software?",
+    "respuesta": "Ing. Mauricio Campaña Alias 'Monster'"
+  },
+  {
+    "pregunta": "¿Cuál es la oferta académica en la universidad ESPE?",
+    "respuesta": "La universidad dispone de 37 carreras se divide en línea y presencial de las cuales son las siguientes"
+  },
+  {
+    "pregunta": "¿Cuáles son los Clubs que dispone la universidad ESPE?",
+    "respuesta": "ya le agrego tengo averiguar los curso"
+  },
+  {
+    "pregunta": "¿Cuáles son los requisitos para el programa de becas en la universidad ESPE?",
+    "respuesta": "Los requisitos suelen incluir tener un alto promedio académico o mayor a 16, no tener recursos económicos suficientes, y cumplir con los criterios establecidos por la universidad. Para más detalles específicos, debes contactar con el departamento de becas de la universidad."
+  },
+  {
+    "pregunta": "¿Qué pasa si me cobran dos veces una materia?",
+    "respuesta": "Presentar por escrito y digital una queja hacia tesoreria."
+  },
+  {
+    "pregunta": "¿Por qué razón se me anularon mis materias?",
+    "respuesta": "1. Por una mala gestión de las personas encargas de las aulas virtuales (Utic). 2. No se cancelaron los pagos correspondientes a perdida de materias (en el caso que este realizando 2da o 3ra matricula)."
+  },
+  {
+    "pregunta": "¿Cuáles son las materias de la malla de ingeniería en software?",
+    "respuesta": "Nota: agregar las materias"
+  },
+  {
+    "pregunta": "¿Cuántos laboratorios de Computación hay en los bloques G y H?",
+    "respuesta": "36 laboratorios"
+  },
+  {
+    "pregunta": "¿Cuántos bloques hay en el edificio principal?",
+    "respuesta": "2, Bloque A y Bloque B"
+  },
+  {
+    "pregunta": "¿Cuántos años tiene la universidad?",
+    "respuesta": "102 años"
+  },
+  {
+    "pregunta": "¿Cuántos Oferta Académica de Grado Modalidad en Línea Tiene la universidad?",
+    "respuesta": "6, Educación Básica, Educación Inicial, Economia, Turismo, Tecnologías de la Información, Pedagogía de los Idiomas y Extranjeros"
+  },
+  {
+    "pregunta": "¿Cuál es la visión de la Universidad?",
+    "respuesta": "Al 2025, ser reconocidos a nivel nacional e internacional como una institución de educación superior de calidad en docencia, investigación y vinculación bajo el paradigma de una universidad inteligente, articulando la transferencia de ciencia y tecnología, a través de procesos de I+D+i; y, convirtiéndonos en un referente de pensamiento en seguridad y defensa, al servicio del país y Fuerzas Armadas."
+  },
+  {
+    "pregunta": "¿A quiénes está dirigido el retiro voluntario?",
+    "respuesta": "Para los estudiantes que una vez registrado su matrícula desean retirarse de forma parcial o total del período académico."
+  },
+  {
+    "pregunta": "Si no alcancé a matricularme en tiempo ordinario, ¿qué debo hacer?",
+    "respuesta": "Debes esperar hasta el tiempo de matrícula extraordinaria para registrar tus NRCs."
+  },
+  {
+    "pregunta": "Si ya no existen cupos en los NRCs (Paralelos), ¿Cuáles son mis alternativas y a quien debo acudir?",
+    "respuesta": "Debes tomar contacto con tu Director de Carrera para que canalice tu necesidad de cupos ante el Coordinador de Docencia o a su vez te informe cuales están disponible mismos que deben ser equivalentes."
+  },
+  {
+    "pregunta": "¿Qué debo hacer si tengo impedimento económico?",
+    "respuesta": "Debes tomar contacto inmediato con la tesorería de la Universidad para que te informen el saldo pendiente que debes cancelar en la Universidad."
+  },
+  {
+    "pregunta": "¿Qué papel importante realiza mi Director de Carrera en tiempos de matrícula?",
+    "respuesta": "Es con quien se toma el primer contacto ante cualquier necesidad académica que tenga el estudiante e inconvenientes al momento de registrar tu matrícula."
+  },
+  {
+    "pregunta": "¿Cuáles son los servicios que ofrece la biblioteca de la ESPE?",
+    "respuesta": "La biblioteca de la ESPE ofrece servicios de préstamo de libros, consulta de materiales en sala, acceso a bases de datos electrónicas, espacios de estudio, y apoyo en investigación a través de asesorías."
+  },
+  {
+    "pregunta": "¿Dónde se puede obtener información sobre los intercambios estudiantiles en la ESPE?",
+    "respuesta": "La información sobre intercambios estudiantiles se puede obtener en la Oficina de Relaciones Internacionales, ubicada en el bloque A, planta baja."
+  },
+  {
+    "pregunta": "¿Cuáles son los horarios de atención de la cafetería de la ESPE?",
+    "respuesta": "La cafetería de la ESPE está abierta de lunes a viernes de 7:00 a 18:00 y los sábados de 8:00 a 13:00."
+  },
+  {
+    "pregunta": "¿Cómo puedo acceder a los servicios médicos en la ESPE?",
+    "respuesta": "Para acceder a los servicios médicos en la ESPE, puedes dirigirte al Centro Médico Universitario, ubicado en el bloque B, planta baja. Los horarios de atención son de lunes a viernes de 8:00 a 16:00."
+  },
+  {
+    "pregunta": "¿Qué actividades extracurriculares ofrece la ESPE?",
+    "respuesta": "La ESPE ofrece una variedad de actividades extracurriculares, incluyendo deportes, clubes culturales y académicos, talleres de arte y música, y programas de voluntariado. Puedes obtener más información en la Dirección de Bienestar Estudiantil."
+  },
+  {
+    "pregunta": "¿Cómo puedo iniciar un proceso de cambio de carrera?",
+    "respuesta": "Si se trata de cambios dentro de la misma universidad, contacta con el Director de Carrera de la carrera a la que quieras solicitar cupo, el/la director@ te brindara más información acerca de requisitos y condiciones del proceso."
+  },
+  {
+    "pregunta": "¿Cómo puedo iniciar un proceso de cambio de universidad?",
+    "respuesta": "Tienes dos alternativas. Quieres realizar un cambio hacia la ESPE o un cambio desde la ESPE hacia otra universidad?"
+  },
+  {
+    "pregunta": "¿Cómo puedo hacer un cambio de universidad hacia la ESPE?",
+    "respuesta": "Puedes empezar por contactar con el Director de la Carrera que deseas postular, el/la director@ te proporcionara información sobre los requisitos y condiciones."
+  },
+  {
+    "pregunta": "¿Cómo puedo hacer un cambio a otra universidad?",
+    "respuesta": "Puedes empezar por contactar con las Autoridades /Decanos/Directores de tu carrera o universidad de destino, ellos te brindaran información acerca del proceso. Por otra parte contacta a la autoridad de tu carrera actual para que te brinde una guía acerca de como realizar correctamente el proceso de salida de la ESPE."
+  },
+  {
+    "pregunta": "¿Quién es el Director de la Carrera de Ingenieria Mecatronica?",
+    "respuesta": "El Director vigente de la carrera de Ing Mecatronica SEDE Matriz es el Ing. Paúl Mejía Campoverde, PhD. Si necesitas contactar con el Director de Ing Mecatronica, este es su correo institucional: carreramecatronica@espe.edu.ec"
+  },
+  {
+    "pregunta": "¿Quién es el Director de la Carrera de Ingenieria Mecatronica SEDE Latacunga?",
+    "respuesta": "El Director vigente de la carrera de Ing Mecatronica SEDE Latacunga es Darío Mendoza C., Máster. Si necesitas contactar con el Director de Ing Mecatronica, este es su correo institucional: djmendoza@espe.edu.ec"
+  },
+  {
+    "pregunta": "¿Quién es el Director de la Carrera de Ingenieria Mecanica?",
+    "respuesta": "El Director vigente de la carrera de Ing Mecanica es el Ing. Jaime F. Echeverría Y. Si necesitas contactar con el Director de Ing Mecanica, este es su correo institucional: jfecheverria@espe.edu.ec"
+  },
+  {
+    "pregunta": "¿Quién es el Director de la Carrera de Ingenieria en Tecnologias de la Informacion?",
+    "respuesta": "El Director vigente de la carrera de Ing en Tecnologias de la Informacion es el Ing. Fidel Castro, MSc. Si necesitas contactar con el Director de Ing en Tecnologias de la Informacion, este es su correo institucional: flcastro@espe.edu.ec"
+  },
+  {
+    "pregunta": "¿Existe residencia universitaria en la Universidad de las Fuerzas Armadas?",
+    "respuesta": "Si, la Universidad de las Fuerzas Armadas cuenta con residencia universitaria, para obtener más información puedes contactarte a los siguientes teléfonos: teléfonos: (02) 3989400 extensiones: 3125 y 3126, (02) 3989476."
+  },
+  {
+    "pregunta": "¿La Universidad de las Fuerzas Armadas cuenta con gimnasio?",
+    "respuesta": "Si, la Universidad de las Fuerzas Armadas presta el servicio de gimnasio, está ubicado en el coliseo Grad. Miguel Iturralde en la Sede de Sangolquí."
+  },
+  {
+    "pregunta": "¿A qué hora abre el gimnasio de la universidad?",
+    "respuesta": "El gimnasio cuenta con horarios de lunes a viernes desde las 7:00 hasta las 13:00 en la mañana y en la tarde desde las 15:00 hasta las 18:30."
+  },
+  {
+    "pregunta": "¿Cómo puedo entrar al gimnasio?",
+    "respuesta": "Para entrar al gimnasio es obligatorio presentar tu carnét de la ESPE y traer toalla personal, alcohol antiséptico y ropa deportiva."
+  },
+  {
+    "pregunta": "¿A quién llamo si fallan las máquinas dispensadoras de la Universidad?",
+    "respuesta": "Al momento el servicio de las maquinas dispensadoras se encuentran bajo los servicios de la marca Maincoffee, si quieres contactarlos para resolver algún problema puedes llamarlos al 0997653889."
+  },
+  {
+    "pregunta": "¿Dónde puedo pedir información sobre el parqueadero de la ESPE?",
+    "respuesta": "La empresa a cargo del parqueadero es ESPE-Innovativa, los puedes contactar al teléfono (593-2) 3820800, al correo electrónico info@espe-innovativa.edu.ec o en sus oficinas ubicadas en Av. General Rumiñahui s/n, Campus Universitario ESPE. Edificio de Servicios Generales ESPE, tras el Almacén Universitario."
+  },
+  {
+    "pregunta": "¿Cuánto tiempo puedo estar en el parqueadero gratis si voy de visita?",
+    "respuesta": "El estacionamiento es gratis para los usuarios que no excedan los 15 minutos de estacionamiento."
+  },
+  {
+    "pregunta": "¿Cuáles son los campus de la ESPE?",
+    "respuesta": "La Universidad de las Fuerzas Armadas ESPE cuenta con los Campus: Campus Matriz, Campus Latacunga y Campus Santo Domingo."
+  },
+  {
+    "pregunta": "¿Con qué Unidad debo comunicarme para postular a un puesto de trabajo?",
+    "respuesta": "Debe comunicarse con la Unidad de Talento Humano para postular a un empleo."
+  },
+  {
+    "pregunta": "¿Con qué departamentos cuenta la Universidad?",
+    "respuesta": "La Universidad cuenta con los departamentos: Ciencias Exactas, Ciencias de la Computación, Ciencias de la Vida, Ciencias Económicas Administrativas y de Comercio, Eléctrica y Electrónica, Energía y Mecánica, Seguridad y Defensa, Ciencias de la Tierra y de la Construcción, Ciencias Humanas y Sociales."
+  },
+  {
+    "pregunta": "¿Cuál es el número de contacto del Campus Matriz?",
+    "respuesta": "El número de contacto del Campus Matriz es (593)23989-400."
+  },
+  {
+    "pregunta": "¿En dónde puedo obtener información sobre el curso de nivelación?",
+    "respuesta": "Puede obtener información del curso de Nivelación en la Unidad de Admisión y Registro, en el apartado de Nivelación."
+  },
+  {
+    "pregunta": "¿Qué modalidades de estudio ofrece la Universidad?",
+    "respuesta": "La Universidad ofrece la modalidad presencial, virtual y semipresencial."
+  },
+  {
+    "pregunta": "¿Qué tipo de becas ofrece la Universidad?",
+    "respuesta": "La Universidad ofrece Becas de Grado, Becas de Maestría y Becas de Doctorado."
+  },
+  {
+    "pregunta": "¿Qué idiomas ofrece la Universidad para aprender?",
+    "respuesta": "La Universidad cuenta con los idiomas de Inglés y Chino Mandarín."
+  },
+  {
+    "pregunta": "¿Con cuántos niveles cuenta el Inglés?",
+    "respuesta": "El aprendizaje del Idioma Inglés cuenta con 6 niveles obligatorios y 2 opcionales."
+  },
+  {
+    "pregunta": "¿Cuándo se fundó la Universidad?",
+    "respuesta": "La Universidad de las Fuerzas Armadas ESPE tiene su origen el 16 de junio de 1922."
+  },
+  {
+    "pregunta": "¿Cuál es el horario de atención de dla Universidad?",
+    "respuesta": "El horario de atención de la Universidad es de Lunes a Viernes de 07h00 a 16h00."
+  },
+  {
+    "pregunta": "¿Qué pasa con los estudiantes que no toman Inglés durante dos periodos consecutivos?",
+    "respuesta": "Los estudiantes deberán registrarse para rendir el examen de ubicación, en el formulario que se habilitará en la Plataforma Mi ESPE."
+  },
+  {
+    "pregunta": "¿A qué número debo comunicarme para obtener información sobre el Proceso de Admisión?",
+    "respuesta": "Debe comunicarse al número (593) 23989 400."
+  },
+  {
+    "pregunta": "¿Cuántos semestres tiene la carrera de Biotecnología?",
+    "respuesta": "La carrera de Biotecnología tiene una duración de 9 semestres."
+  },
+  {
+    "pregunta": "¿Cuántos semestres tiene la carrera de Medicina?",
+    "respuesta": "La carrera de Medicina tiene una duración de 10 semestres."
+  },
+  {
+    "pregunta": "Que proceso tengo que hacer si aprobe a primer nivel en modalidad presencial?",
+    "respuesta": "Acercarse de manera presencial donde el Director de su Carrera y entregar la aceptación de matrícula para primer nivel, el documento debe ser descargado, llenado y firmado por el estudiante."
+  },
+  {
+    "pregunta": "¿Qué tiempo tengo para proceder a la titulación?",
+    "respuesta": "Una vez culminado un periodo académico, posterior a la finalización del periodo normal de estudios, pasado este tiempo el estudiante tendrá que pedir una prórroga de un periodo académico ordinario al Director del Centro de Posgrados, esta primera prórroga es gratuita. El estudiante tendrá derecho de solicitar una segunda prórroga con pago para la extensión de un plazo adicional de un periodo académico ordinario."
+  },
+  {
+    "pregunta": "¿Cuánto tiempo dura vinculación?",
+    "respuesta": "El tiempo de ejecución de los proyectos de vinculación con la sociedad, estará acorde a las actividades planificadas. La ejecución de un proyecto no podrá ser menor a tres meses."
+  },
+  {
+    "pregunta": "¿Hay que comenzar desde el primer nivel en ingles?",
+    "respuesta": "Se puede comenzar desde el primer nivel de ingles o realizar el examen de ubicacion con la finalidad de ubicar al estudiante de acuerdo al nivel de conocimiento."
+  },
+  {
+    "pregunta": "¿Puedo realizar segunda vez el examen de ubicación en idiomas?",
+    "respuesta": "Si se puede realizar por segunda ocasión el examen de ubicación pero a partir del segundo examen deberá cancelar el valor correspondiente al 100%."
+  },
+  {
+    "pregunta": "¿Cuánto tiempo puedo ausentarme del ingles?",
+    "respuesta": "Los estudiantes de carreras que no han dado continuidad en los cursos de idiomas por el lapso de dos períodos académicos, deberán registrarse para rendir el examen de ubicación, en el formulario que se habilitará en la Plataforma Mi ESPE ; caso contrario deberán matricularse en ENGLISH I (primer nivel) en las fechas establecidas."
+  },
+  {
+    "pregunta": "¿Cuántas horas se requieren para cumplir Practica preprofesionales?",
+    "respuesta": "Como parte de la formación academica para realizar la titulación de una carrera se debe cumplir 240 horas."
+  },
+  {
+    "pregunta": "¿Existen materias optativas en la universidad?",
+    "respuesta": "No existen materias optativas en la Universidad de las Fuerzas Armadas ESPE."
+  },
+  {
+    "pregunta": "¿Qué es el MIC?",
+    "respuesta": "Es un proyecto investigativo que permite la titulación del estudiante de una carrera, esta materia se encuentra en los últimos niveles de la malla de cualquier carrera."
+  },
+  {
+    "pregunta": "¿Solo pueden ingresar a la universidad personas que pertencen a las fuerzas armadas?",
+    "respuesta": "No, la universidad esta habilitada para personal civil y personal militar."
+  },
+  {
+    "pregunta": "¿Cuántas tercera matriculas puedo hacer?",
+    "respuesta": "El maximo de tercera matriculas que puede hacer un estudiante es de 3."
+  },
+  {
+    "pregunta": "¿Cuántas horas se deben cumplir para vinculación / servicio comunitario?",
+    "respuesta": "Como parte de la formación académica para realizar la titulación de una carrera se deben cumplir 96 horas."
+  },
+  {
+    "pregunta": "¿El nuevo hospital universitario esta dentro del campus matriz?",
+    "respuesta": "No, el nuevo hospital universitario PADIS-ESPE está ubicado en el valle de los chillos pero no en el campus matriz."
+  },
+  {
+    "pregunta": "¿Existen cursos de capacitación dentro de la ESPE?",
+    "respuesta": "Sí, son cursos que corresponden al centro de educación continua y tienen para las áreas de ciencias exactas, médicas, energía y mecánica, de la vida y agricultura, computación, eléctrica, electrónica y telecomunicaciones, económicas, administrativas y de comercio, humanas y sociales, de la tierra y construcción, seguridad y defensa."
+  },
+  {
+    "pregunta": "¿Las carreas de seguridad y defensa pueden tomarla ciudadanos civiles?",
+    "respuesta": "No, solo pueden cursar estas carreras personal militar."
+  },
+  {
+    "pregunta": "¿Qué pasa si estoy haciendo el MIC y ya no tengo más materias en la malla por tomar?",
+    "respuesta": "En el caso que se presente esta situación, se debe comunicar al problema al director de carrera él cual dará una resolución para poder matricularte sin que presente inconvenientes en la matrícula como perdida de gratuidad."
+  },
+  {
+    "pregunta": "¿Dondé esta ubicado el instituto de idiomas de la ESPE?",
+    "respuesta": "Av. 6 de Diciembre y Thomás de Berlanga – Campus el Inca."
+  },
+  {
+    "pregunta": "¿Cuántos son los créditos mínimos para no perder gratuidad de matrícula?",
+    "respuesta": "Nota: agregar el número de créditos mínimos."
+  },
+  {
+    "pregunta": "¿Quién es Coordinador de pasantias del departamento de DCCO?",
+    "respuesta": "Phd. Edison Jorge Lascano."
+  },
+  {
+    "pregunta": "¿Todas las carreras de ingeniería tienen materias exactas?",
+    "respuesta": "Sí, todas las carreras de ingeniería cuentan con un 30% de la malla de materias exactas."
+  },
+  {
+    "pregunta": "¿Quién es la directora del Departamento de Ciencias de Computación DCCO?",
+    "respuesta": "Phd. Mgstr Sonia Cardenas."
+  },
+  {
+    "pregunta": "¿Qué facilidades deportivas ofrece la ESPE a sus estudiantes?",
+    "respuesta": "La ESPE ofrece varias facilidades deportivas, incluyendo canchas de fútbol, baloncesto, voleibol, y un gimnasio. Los horarios y disponibilidad de estas instalaciones pueden ser consultados en la Dirección de Bienestar Estudiantil o en la administración de las instalaciones deportivas."
+  },
+  {
+    "pregunta": "¿Qué actividades sociales y recreativas se organizan para los nuevos estudiantes en la ESPE?",
+    "respuesta": "La ESPE organiza varias actividades sociales y recreativas para nuevos estudiantes, como jornadas de integración, eventos deportivos, y actividades culturales. Puedes encontrar más información en el calendario académico o en la Dirección de Bienestar Estudiantil."
+  },
+  {
+    "pregunta": "¿Cuál es la particularidad histórica de la ESPE en cuanto a su origen y transformación?",
+    "respuesta": "La Universidad de las Fuerzas Armadas ESPE se originó el 16 de junio de 1922 como la Escuela de Oficiales de Ingenieros, orientada a la formación de oficiales del Ejército en técnicas de ingeniería militar. En 1977, se transformó en la Escuela Politécnica del Ejército (ESPE), y en 2013, se fusionó con otras instituciones militares para convertirse en la Universidad de las Fuerzas Armadas ESPE, como se la conoce hoy en día​ (Wikipedia, la enciclopedia libre)​​ (ESPE)​."
+  },
+  {
+    "pregunta": "¿Sabías que la ESPE tiene un campus con su propia granja experimental?",
+    "respuesta": "¡Sí! La ESPE no solo se dedica a la educación en aulas, sino que también cuenta con una granja experimental en el campus de Sangolquí. Aquí, los estudiantes de carreras relacionadas con ciencias agropecuarias pueden practicar y aplicar sus conocimientos."
+  }
+]

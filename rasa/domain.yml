@@ -1,0 +1,13 @@
+intents:
+  - preguntar_faq
+
+responses:
+  utter_saludo:
+    - text: "Hola, ¿cómo puedo ayudarte hoy?"
+
+actions:
+  - action_buscar_faq
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

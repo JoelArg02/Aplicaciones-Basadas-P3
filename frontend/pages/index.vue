@@ -2,7 +2,7 @@
 	const messages = ref([
 		{
 			role: 'AI',
-			message: 'Hello! How can I help you?'
+			message: 'Hola bienvenido al chatbot ESPE, ¿en qué puedo ayudarte?'
 		}
 	]);
 	const loading = ref(false);
@@ -16,27 +16,34 @@
 	};
 
 	const sendPrompt = async () => {
-		if (message.value === '') return;
-		loading.value = true;
+	if (message.value === '') return;
+	loading.value = true;
 
-		messages.value.push({
-			role: 'User',
-			message: message.value
-		});
+	messages.value.push({
+		role: 'User',
+		message: message.value
+	});
 
-		scrollToEnd();
-		message.value = '';
+	scrollToEnd();
+	const userMessage = { query: message.value };
+	message.value = '';
+
+	try {
+		console.log('Sending userMessage:', userMessage); // Registro para depuración
 
 		const res = await fetch(`/api/chat`, {
-			body: JSON.stringify(messages.value.slice(1)),
-			method: 'post'
+			body: JSON.stringify(userMessage),
+			method: 'post',
+			headers: {
+				'Content-Type': 'application/json' // Añadir este encabezado
+			}
 		});
 
 		if (res.status === 200) {
 			const response = await res.json();
 			messages.value.push({
 				role: 'AI',
-				message: response?.message
+				message: response.message
 			});
 		} else {
 			messages.value.push({
@@ -44,21 +51,29 @@
 				message: 'Sorry, an error occurred.'
 			});
 		}
+	} catch (error) {
+		console.error('Error in sendPrompt:', error); // Registro para depuración
+		messages.value.push({
+			role: 'AI',
+			message: 'Sorry, an error occurred.'
+		});
+	}
 
-		loading.value = false;
-		scrollToEnd();
-	};
+	loading.value = false;
+	scrollToEnd();
+};
+
 </script>
 
 <template>
 	<div class="max-w-xl mx-auto text-black">
-		<a
+		<!-- <a
 			href="https://vercel.com/templates/next.js/blob-sveltekit"
 			class="flex justify-center px-10 py-2 mx-auto space-x-1 text-sm font-medium text-center text-gray-600 transition-all rounded-full shadow-sm group bg-white/30 ring-1 ring-gray-900/5 hover:shadow-lg active:shadow-sm"
 		>
 			Deploy your own to Vercel
-		</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">AI Chatbot</h1>
+		</a> -->
+		<h1 class="my-8 text-5xl font-bold text-center text-black">ESPECITO</h1>
 		<div class="max-w-xl mx-auto">
 			<div class="bg-white rounded-md shadow h-[60vh] flex flex-col justify-between">
 				<div class="h-full overflow-auto chat-messages">
@@ -83,7 +98,7 @@
 						<input
 							v-model="message"
 							type="text"
-							placeholder="Type here..."
+							placeholder="Escribe tu consulta aqui"
 							class="w-full p-1 text-sm text-black bg-transparent bg-gray-100 border rounded-md shadow border-white/40 grow"
 						/>
 						<button
@@ -118,7 +133,7 @@
 				</form>
 			</div>
 		</div>
-		<div class="flex flex-col justify-center w-full my-4">
+		<!-- <div class="flex flex-col justify-center w-full my-4">
 			<div class="flex items-center justify-center my-2">
 				<span>Built with</span>
 				<a
@@ -149,7 +164,7 @@
 					<p class="ml-1">Source</p>
 				</a>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </template>
 
