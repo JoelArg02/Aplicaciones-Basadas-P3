@@ -1,0 +1,8 @@
+services:
+  rasa:
+    build: .
+    ports:
+      - "5005:5005"
+    volumes:
+      - .:/app
+    command: ["rasa", "run", "--enable-api", "--cors", "*"]
