@@ -4,7 +4,7 @@ import cors from "cors";
 import predictionRoutes from "./routes/predictionRoutes";
 
 const app: Application = express();
-const port: number = 3000;
+const port: number = 3001;
 
 app.use(
   cors({

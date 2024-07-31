@@ -4,10 +4,10 @@ FROM node:18
 # Set the working directory
 WORKDIR /app
 
-# Copy package.json and package-lock.json
+# Copy package.json and package-lock.json first to leverage Docker cache
 COPY package*.json ./
 
-# Install dependencies
+# Install npm dependencies
 RUN npm install
 
 # Copy the rest of the application
@@ -21,7 +21,7 @@ RUN apt-get update && \
 RUN python3 -m venv /opt/venv
 
 # Activate the virtual environment and install Python packages
-RUN /opt/venv/bin/pip install pandas joblib scikit-learn faiss-cpu cohere
+RUN /opt/venv/bin/pip install pandas joblib scikit-learn==1.3.0 faiss-cpu langchain_community
 
 # Add the virtual environment to the PATH
 ENV PATH="/opt/venv/bin:$PATH"

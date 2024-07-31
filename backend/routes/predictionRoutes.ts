@@ -1,8 +1,8 @@
-import { Router } from 'express';
-import { predictIncome } from '../controller/predictionController';
+    import { Router } from 'express';
+    import { predictIncome } from '../controller/predictionController';
 
-const router: Router = Router();
+    const router: Router = Router();
 
-router.post('/', predictIncome);
+    router.post('/', predictIncome);
 
-export default router;
+    export default router;
