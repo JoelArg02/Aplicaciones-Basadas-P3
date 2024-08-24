@@ -1,14 +1,31 @@
 import { Request, Response } from "express";
 import { PythonShell, Options } from "python-shell";
 
+// Un objeto para almacenar los historiales de chat de los usuarios
+const userSessions: { [key: string]: string[] } = {};
+
 export const predictIncome = (req: Request, res: Response): void => {
-  const { query } = req.body;
+  const { query, userId } = req.body;
+
+  if (!userId) {
+    res.status(400).json({ error: "userId es requerido" });
+    return;
+  }
+
+  // Iniciar el historial del usuario si no existe
+  if (!userSessions[userId]) {
+    userSessions[userId] = [];
+  }
+
+  // Añadir la nueva consulta al historial del usuario
+  userSessions[userId].push(query);
 
   const options: Options = {
     mode: "text",
     pythonOptions: ["-u"],
     scriptPath: "./models",
     args: [query],
+    encoding: "utf8",
   };
 
   const pyshell = new PythonShell("predictionModel.py", options);
@@ -31,7 +48,11 @@ export const predictIncome = (req: Request, res: Response): void => {
         "y la señal:",
         signal
       );
-      res.json({ response: response.trim() });
+
+      // Añadir la respuesta al historial del usuario
+      userSessions[userId].push(response.trim());
+
+      res.json({ response: response.trim(), history: userSessions[userId] });
     }
   });
 };

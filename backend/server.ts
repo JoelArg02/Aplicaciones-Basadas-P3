@@ -1,6 +1,5 @@
-import express, { Application } from "express";
-import bodyParser from "body-parser";
 import cors from "cors";
+import express, { Application } from "express";
 import predictionRoutes from "./routes/predictionRoutes";
 
 const app: Application = express();
