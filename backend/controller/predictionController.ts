@@ -25,7 +25,7 @@ export const predictIncome = (req: Request, res: Response): void => {
     pythonOptions: ["-u"],
     scriptPath: "./models",
     args: [query],
-    encoding: "utf8",
+    encoding: "utf-8",
   };
 
   const pyshell = new PythonShell("predictionModel.py", options);

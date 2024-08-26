@@ -13,6 +13,8 @@ export default defineEventHandler(async (event) => {
 	}
 
 	const prompt = `User: ${previosMessage.query}\n`;
+	const userId = '12345'; // Asegúrate de obtener o generar un userId único para cada usuario 5 4
+
 
 	console.log('Generated prompt:', prompt);
 
@@ -24,6 +26,7 @@ export default defineEventHandler(async (event) => {
 			},
 			body: JSON.stringify({
 				query: prompt,
+				userId: userId
 			})
 		});
 
